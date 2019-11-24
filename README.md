@@ -10,3 +10,7 @@ This data exploration follows [this tutorial](https://streamlit.io/docs/tutorial
 We'll analyze [data](https://github.com/googlecreativelab/quickdraw-dataset) from the [Google Quickdraw app](https://quickdraw.withgoogle.com/)
 
 We'll look into whether users doodled their drawings starting with the outlining structure of the drawing or with its details. 
+
+***
+
+![Grey Software](https://github.com/grey-software/Grey-Software/blob/master/grey-software.png?raw=true)
